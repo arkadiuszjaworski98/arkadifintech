@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/arkadifintech/static/css/main.abd64e84.css",
-    "main.js": "/arkadifintech/static/js/main.d65d771b.js",
+    "main.js": "/arkadifintech/static/js/main.f21eb0fe.js",
     "index.html": "/arkadifintech/index.html",
     "main.abd64e84.css.map": "/arkadifintech/static/css/main.abd64e84.css.map",
-    "main.d65d771b.js.map": "/arkadifintech/static/js/main.d65d771b.js.map"
+    "main.f21eb0fe.js.map": "/arkadifintech/static/js/main.f21eb0fe.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
-    "static/js/main.d65d771b.js"
+    "static/js/main.f21eb0fe.js"
   ]
 }
